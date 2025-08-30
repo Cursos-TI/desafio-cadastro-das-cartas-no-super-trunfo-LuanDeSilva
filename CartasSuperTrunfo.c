@@ -2,6 +2,8 @@
 
 int main() {
     printf("Desafio Super trunfo!\n");
+    printf("Novo commit\n");
+
     //Declaração das variáveis da Carta 1
     char estado1;
     char codigo1[4];       // Exemplo: A01 (3 caracteres + '\0')
