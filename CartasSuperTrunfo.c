@@ -2,7 +2,7 @@
 
 int main() {
     printf("Desafio Super trunfo!\n");
-    printf("Novo commit\n");
+    printf("Novo commit Trunfo\n");
 
     //Declaração das variáveis da Carta 1
     char estado1;
